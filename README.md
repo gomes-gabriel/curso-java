@@ -1,2 +1,2 @@
 # curso-java
-Repositório para o Curso de Java da Udemy.
+Repositório para o **Curso de Java** da _Udemy_.
